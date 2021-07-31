@@ -23,8 +23,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <!-- <a href="https://twitter.com/divyarajsinhr18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="divyarajsinhr18" height="35" width="40" /></a> -->
-<a href="https://linkedin.com/in/satyam-bhimani-a77125202" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="satyam Bhimani" height="35" width="35" /></a> &nbsp;
-<a href="https://instagram.com/satyam_bhimani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="satyam Bhimani" height="35" width="35" /></a>
+<a href="https://linkedin.com/in/satyam-bhimani-47a1a8207" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="satyam Bhimani" height="35" width="35" /></a> &nbsp;
+<a href="https://instagram.com/charming_boy_17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="satyam Bhimani" height="35" width="35" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
